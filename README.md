@@ -4,6 +4,8 @@ This project provides a modern and interactive portfolio webpage template with e
 
 ## Features
 
+---
+
 **Animated Landing Page:** Eye-catching animated letters.
 
 **Animated Navigation Bar:** A smooth, animated navigation bar for an enhanced user experience.
@@ -14,10 +16,22 @@ This project provides a modern and interactive portfolio webpage template with e
 
 ## Technologies Used
 
+---
+
 - HTML
 
 - CSS
 
 - JavaScript
 
-[Live preview](https://milanilic-w28.github.io/portfolio-website/)
+## [Live preview](https://milanilic-w28.github.io/portfolio-website/)
+
+---
+
+## Screenshots
+
+![Letters](img/img01.png)
+
+![grid](img/img02.png)
+
+![form](img/img03.png)
